@@ -1,5 +1,5 @@
 # Gob-Groovy
-Est un petit groovy se basant sur la
+Is a little groovy based on the Youtube API
 
 # Prerequisite
 - PHP 7.4.9
