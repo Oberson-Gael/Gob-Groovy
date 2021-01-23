@@ -14,7 +14,7 @@
 </head>
 <body style="background-color:#454342">
 <?php 
-        $API_key    = "AIzaSyB8FWLbA04auz5ZVRqZ1_1bzvyW-N4PkOY";
+        $API_key    = "Your API Key";
         
         $titleVideo = str_replace(" ","%",htmlentities($_POST["title"]));
         if($titleVideo !== ""){
